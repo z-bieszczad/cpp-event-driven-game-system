@@ -139,4 +139,5 @@ CMakeFiles/Biblos.dir/source/LootSystem.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DeathEvent.h

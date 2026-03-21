@@ -136,4 +136,5 @@ CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/IEvent.h \
- C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DamageEvent.h
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DamageEvent.h \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DeathEvent.h

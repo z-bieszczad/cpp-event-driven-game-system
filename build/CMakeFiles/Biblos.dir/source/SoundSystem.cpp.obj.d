@@ -1,7 +1,7 @@
 CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: \
  C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\SoundSystem.cpp \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/SoundSystem.h \
- C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/Ievent.h \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/IEvent.h \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DamageEvent.h \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/HealEvent.h \
  C:/msys64/ucrt64/include/c++/13.2.0/iostream \
@@ -137,4 +137,5 @@ CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DeathEvent.h

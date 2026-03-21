@@ -109,4 +109,6 @@ CMakeFiles/Biblos.dir/source/Player.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_queue.h \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/IEvent.h \
  C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/HealEvent.h \
- C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/ItemPickedEvent.h
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/ItemPickedEvent.h \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DamageEvent.h \
+ C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/include/DeathEvent.h
