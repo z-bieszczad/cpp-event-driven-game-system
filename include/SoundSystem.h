@@ -1,5 +1,5 @@
 #pragma once
-#include "Ievent.h"
+#include "IEvent.h"
 #include "DamageEvent.h"
 #include "HealEvent.h"
 #include <iostream>

@@ -7,6 +7,7 @@ public:
     Player(int id, int hp, EventBus& bus);
     void heal(int value);
     void pickItem(const std:: string& item);
+    void takeDamage(int dmg);
     
 private:
     int id;
@@ -14,6 +15,7 @@ private:
     EventBus& bus;
     // 
     std::vector<std::string> inventory;
+    bool alive=true;
 
 };
 

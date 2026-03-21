@@ -9,5 +9,6 @@ public:
 private:
     int id;
     int hp;
+    bool alive=true;
     EventBus& bus;
 };

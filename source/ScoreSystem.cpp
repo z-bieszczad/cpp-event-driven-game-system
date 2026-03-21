@@ -1,4 +1,5 @@
 #include "ScoreSystem.h"
+#include "DeathEvent.h"
 #include <iostream>
 
 int ScoreSystem::score=0;
@@ -16,6 +17,10 @@ void ScoreSystem::handleEvent(IEvent* e){
     //     score += 100; // Bonus za fraga
     //     std::cout << "[ScoreSystem] Enemy killed! Bonus 100 pts. Total: " << score << "\n";
     // }
+    if(auto death=dynamic_cast<DeathEvent*>(e)){
+        score+=100;
+        std::cout<<"[ScoreSystem] entity "<<death->id<<"died. +100 points (total score: )"<<score<<")\n";
+    }
 }
 
 int ScoreSystem::getScore(){
