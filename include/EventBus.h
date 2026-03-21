@@ -8,9 +8,10 @@ public:
     void subscribe(void(*callback)(IEvent*));
     void emit(IEvent* event);
     void processEvents();
-    
+
 private:
     std::queue<IEvent*> events;
-    std::vector<void(*)(IEvents)> subscribers;
+    // std::vector<void(*)(IEvents*)> subscribers;
+    std::vector<void(*)(IEvent*)> subscribers;
 
 };
