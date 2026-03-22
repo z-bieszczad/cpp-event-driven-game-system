@@ -49,6 +49,9 @@ int main() {
     return 0;
 }
 
+
+
+
 /*
     Z uwagi na charakter projektów, skupimy się raczej na architekturze i mniej standardowych rzeczach,
     których (ciągle) nie zrobi za Was GPT. :)

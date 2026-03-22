@@ -1,5 +1,0 @@
-C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/build/CMakeFiles/Biblos.dir
-C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/build/CMakeFiles/run.dir
-C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/build/CMakeFiles/memcheck.dir
-C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/build/CMakeFiles/edit_cache.dir
-C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/build/CMakeFiles/rebuild_cache.dir

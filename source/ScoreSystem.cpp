@@ -9,7 +9,7 @@ void ScoreSystem::handleEvent(IEvent* e){
         // wstepna logika obrazen
         score+=dmg->damage;
 
-        std::cout<<"[ScoreSystem] added"<<dmg->damage<<"points total score: "<<score<<"\n";
+        std::cout<<"[ScoreSystem] added "<<dmg->damage<<" points total score: "<<score<<"\n";
     }
 
     
@@ -19,7 +19,7 @@ void ScoreSystem::handleEvent(IEvent* e){
     // }
     if(auto death=dynamic_cast<DeathEvent*>(e)){
         score+=100;
-        std::cout<<"[ScoreSystem] entity "<<death->id<<"died. +100 points (total score: )"<<score<<")\n";
+        std::cout<<"[ScoreSystem] entity "<<death->id<<" died. +100 points (total score: )"<<score<<")\n";
     }
 }
 
