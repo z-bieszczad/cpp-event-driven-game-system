@@ -4,7 +4,7 @@ std::string Quest:: getName(){
     return name;
 }
 
-int Quest:: getMaxProgress(){
+int Quest:: getRequired(){
     return maxProgress;
 }
 
@@ -12,7 +12,7 @@ int Quest:: getProgress(){
     return progress;
 }
 
-bool Quest:: getState(){
+bool Quest:: isCompleted(){
     return state;
 }
 

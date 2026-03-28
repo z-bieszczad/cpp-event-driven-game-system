@@ -86,12 +86,12 @@ clean: CMakeFiles/memcheck.dir/clean
 CMakeFiles/Biblos.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target Biblos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Built target Biblos"
 .PHONY : CMakeFiles/Biblos.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Biblos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Biblos.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles 0
 .PHONY : CMakeFiles/Biblos.dir/rule
@@ -103,7 +103,7 @@ Biblos: CMakeFiles/Biblos.dir/rule
 # codegen rule for target.
 CMakeFiles/Biblos.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target Biblos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Finished codegen for target Biblos"
 .PHONY : CMakeFiles/Biblos.dir/codegen
 
 # clean rule for target.

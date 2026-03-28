@@ -131,11 +131,71 @@ CMakeFiles/Biblos.dir/source/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblos.dir/source/Player.cpp.s"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\Player.cpp -o CMakeFiles\Biblos.dir\source\Player.cpp.s
 
+CMakeFiles/Biblos.dir/source/Quest.cpp.obj: CMakeFiles/Biblos.dir/flags.make
+CMakeFiles/Biblos.dir/source/Quest.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
+CMakeFiles/Biblos.dir/source/Quest.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/Quest.cpp
+CMakeFiles/Biblos.dir/source/Quest.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Biblos.dir/source/Quest.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/Quest.cpp.obj -MF CMakeFiles\Biblos.dir\source\Quest.cpp.obj.d -o CMakeFiles\Biblos.dir\source\Quest.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\Quest.cpp
+
+CMakeFiles/Biblos.dir/source/Quest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblos.dir/source/Quest.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\Quest.cpp > CMakeFiles\Biblos.dir\source\Quest.cpp.i
+
+CMakeFiles/Biblos.dir/source/Quest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblos.dir/source/Quest.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\Quest.cpp -o CMakeFiles\Biblos.dir\source\Quest.cpp.s
+
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj: CMakeFiles/Biblos.dir/flags.make
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/QuestHandle.cpp
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj -MF CMakeFiles\Biblos.dir\source\QuestHandle.cpp.obj.d -o CMakeFiles\Biblos.dir\source\QuestHandle.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestHandle.cpp
+
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblos.dir/source/QuestHandle.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestHandle.cpp > CMakeFiles\Biblos.dir\source\QuestHandle.cpp.i
+
+CMakeFiles/Biblos.dir/source/QuestHandle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblos.dir/source/QuestHandle.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestHandle.cpp -o CMakeFiles\Biblos.dir\source\QuestHandle.cpp.s
+
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj: CMakeFiles/Biblos.dir/flags.make
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/QuestJournal.cpp
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj -MF CMakeFiles\Biblos.dir\source\QuestJournal.cpp.obj.d -o CMakeFiles\Biblos.dir\source\QuestJournal.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestJournal.cpp
+
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblos.dir/source/QuestJournal.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestJournal.cpp > CMakeFiles\Biblos.dir\source\QuestJournal.cpp.i
+
+CMakeFiles/Biblos.dir/source/QuestJournal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblos.dir/source/QuestJournal.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestJournal.cpp -o CMakeFiles\Biblos.dir\source\QuestJournal.cpp.s
+
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj: CMakeFiles/Biblos.dir/flags.make
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/QuestSystem.cpp
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj -MF CMakeFiles\Biblos.dir\source\QuestSystem.cpp.obj.d -o CMakeFiles\Biblos.dir\source\QuestSystem.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestSystem.cpp
+
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblos.dir/source/QuestSystem.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestSystem.cpp > CMakeFiles\Biblos.dir\source\QuestSystem.cpp.i
+
+CMakeFiles/Biblos.dir/source/QuestSystem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblos.dir/source/QuestSystem.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\QuestSystem.cpp -o CMakeFiles\Biblos.dir\source\QuestSystem.cpp.s
+
 CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj: CMakeFiles/Biblos.dir/flags.make
 CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
 CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/ScoreSystem.cpp
 CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj -MF CMakeFiles\Biblos.dir\source\ScoreSystem.cpp.obj.d -o CMakeFiles\Biblos.dir\source\ScoreSystem.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\ScoreSystem.cpp
 
 CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.i: cmake_force
@@ -150,7 +210,7 @@ CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: CMakeFiles/Biblos.dir/flags.ma
 CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
 CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/SoundSystem.cpp
 CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj -MF CMakeFiles\Biblos.dir\source\SoundSystem.cpp.obj.d -o CMakeFiles\Biblos.dir\source\SoundSystem.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\SoundSystem.cpp
 
 CMakeFiles/Biblos.dir/source/SoundSystem.cpp.i: cmake_force
@@ -165,7 +225,7 @@ CMakeFiles/Biblos.dir/source/main.cpp.obj: CMakeFiles/Biblos.dir/flags.make
 CMakeFiles/Biblos.dir/source/main.cpp.obj: CMakeFiles/Biblos.dir/includes_CXX.rsp
 CMakeFiles/Biblos.dir/source/main.cpp.obj: C:/Users/PC/Desktop/ceplusplus_2/project_event_bus/source/main.cpp
 CMakeFiles/Biblos.dir/source/main.cpp.obj: CMakeFiles/Biblos.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Biblos.dir/source/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Biblos.dir/source/main.cpp.obj"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblos.dir/source/main.cpp.obj -MF CMakeFiles\Biblos.dir\source\main.cpp.obj.d -o CMakeFiles\Biblos.dir\source\main.cpp.obj -c C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\source\main.cpp
 
 CMakeFiles/Biblos.dir/source/main.cpp.i: cmake_force
@@ -182,6 +242,10 @@ Biblos_OBJECTS = \
 "CMakeFiles/Biblos.dir/source/EventBus.cpp.obj" \
 "CMakeFiles/Biblos.dir/source/LootSystem.cpp.obj" \
 "CMakeFiles/Biblos.dir/source/Player.cpp.obj" \
+"CMakeFiles/Biblos.dir/source/Quest.cpp.obj" \
+"CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj" \
+"CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj" \
+"CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj" \
 "CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj" \
 "CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj" \
 "CMakeFiles/Biblos.dir/source/main.cpp.obj"
@@ -193,6 +257,10 @@ Biblos.exe: CMakeFiles/Biblos.dir/source/Enemy.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/EventBus.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/LootSystem.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/Player.cpp.obj
+Biblos.exe: CMakeFiles/Biblos.dir/source/Quest.cpp.obj
+Biblos.exe: CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj
+Biblos.exe: CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj
+Biblos.exe: CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/ScoreSystem.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/SoundSystem.cpp.obj
 Biblos.exe: CMakeFiles/Biblos.dir/source/main.cpp.obj
@@ -200,7 +268,7 @@ Biblos.exe: CMakeFiles/Biblos.dir/build.make
 Biblos.exe: CMakeFiles/Biblos.dir/linkLibs.rsp
 Biblos.exe: CMakeFiles/Biblos.dir/objects1.rsp
 Biblos.exe: CMakeFiles/Biblos.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Biblos.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\PC\Desktop\ceplusplus_2\project_event_bus\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Biblos.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Biblos.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

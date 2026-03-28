@@ -250,6 +250,102 @@ source/Player.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/Player.cpp.s
 .PHONY : source/Player.cpp.s
 
+source/Quest.obj: source/Quest.cpp.obj
+.PHONY : source/Quest.obj
+
+# target to build an object file
+source/Quest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/Quest.cpp.obj
+.PHONY : source/Quest.cpp.obj
+
+source/Quest.i: source/Quest.cpp.i
+.PHONY : source/Quest.i
+
+# target to preprocess a source file
+source/Quest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/Quest.cpp.i
+.PHONY : source/Quest.cpp.i
+
+source/Quest.s: source/Quest.cpp.s
+.PHONY : source/Quest.s
+
+# target to generate assembly for a file
+source/Quest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/Quest.cpp.s
+.PHONY : source/Quest.cpp.s
+
+source/QuestHandle.obj: source/QuestHandle.cpp.obj
+.PHONY : source/QuestHandle.obj
+
+# target to build an object file
+source/QuestHandle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestHandle.cpp.obj
+.PHONY : source/QuestHandle.cpp.obj
+
+source/QuestHandle.i: source/QuestHandle.cpp.i
+.PHONY : source/QuestHandle.i
+
+# target to preprocess a source file
+source/QuestHandle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestHandle.cpp.i
+.PHONY : source/QuestHandle.cpp.i
+
+source/QuestHandle.s: source/QuestHandle.cpp.s
+.PHONY : source/QuestHandle.s
+
+# target to generate assembly for a file
+source/QuestHandle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestHandle.cpp.s
+.PHONY : source/QuestHandle.cpp.s
+
+source/QuestJournal.obj: source/QuestJournal.cpp.obj
+.PHONY : source/QuestJournal.obj
+
+# target to build an object file
+source/QuestJournal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestJournal.cpp.obj
+.PHONY : source/QuestJournal.cpp.obj
+
+source/QuestJournal.i: source/QuestJournal.cpp.i
+.PHONY : source/QuestJournal.i
+
+# target to preprocess a source file
+source/QuestJournal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestJournal.cpp.i
+.PHONY : source/QuestJournal.cpp.i
+
+source/QuestJournal.s: source/QuestJournal.cpp.s
+.PHONY : source/QuestJournal.s
+
+# target to generate assembly for a file
+source/QuestJournal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestJournal.cpp.s
+.PHONY : source/QuestJournal.cpp.s
+
+source/QuestSystem.obj: source/QuestSystem.cpp.obj
+.PHONY : source/QuestSystem.obj
+
+# target to build an object file
+source/QuestSystem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestSystem.cpp.obj
+.PHONY : source/QuestSystem.cpp.obj
+
+source/QuestSystem.i: source/QuestSystem.cpp.i
+.PHONY : source/QuestSystem.i
+
+# target to preprocess a source file
+source/QuestSystem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestSystem.cpp.i
+.PHONY : source/QuestSystem.cpp.i
+
+source/QuestSystem.s: source/QuestSystem.cpp.s
+.PHONY : source/QuestSystem.s
+
+# target to generate assembly for a file
+source/QuestSystem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblos.dir\build.make CMakeFiles/Biblos.dir/source/QuestSystem.cpp.s
+.PHONY : source/QuestSystem.cpp.s
+
 source/ScoreSystem.obj: source/ScoreSystem.cpp.obj
 .PHONY : source/ScoreSystem.obj
 
@@ -345,6 +441,18 @@ help:
 	@echo ... source/Player.obj
 	@echo ... source/Player.i
 	@echo ... source/Player.s
+	@echo ... source/Quest.obj
+	@echo ... source/Quest.i
+	@echo ... source/Quest.s
+	@echo ... source/QuestHandle.obj
+	@echo ... source/QuestHandle.i
+	@echo ... source/QuestHandle.s
+	@echo ... source/QuestJournal.obj
+	@echo ... source/QuestJournal.i
+	@echo ... source/QuestJournal.s
+	@echo ... source/QuestSystem.obj
+	@echo ... source/QuestSystem.i
+	@echo ... source/QuestSystem.s
 	@echo ... source/ScoreSystem.obj
 	@echo ... source/ScoreSystem.i
 	@echo ... source/ScoreSystem.s

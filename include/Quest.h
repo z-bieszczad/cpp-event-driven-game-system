@@ -4,12 +4,13 @@
 class Quest{
 public:
     Quest(std::string name, int maxprg):name(name),maxProgress(maxprg){}
+
     std::string getName();
-    int getMaxProgress();
+    int getRequired();
     int getProgress();
-    bool getState();
+    bool isCompleted();
     void setProgress(int val);
-    
+
 
 private:
     std::string name;
